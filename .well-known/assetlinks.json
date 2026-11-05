@@ -1,0 +1,8 @@
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "io.github.biturbo_max.aiduo",
+        "sha256_cert_fingerprints": ["CC:0C:03:5D:C8:5F:1E:D0:66:9F:AF:58:A3:C3:9B:5C:DA:64:8C:03:D3:07:97:11:5E:AC:63:D5:B9:80:00:02"]
+      }
+    }]
